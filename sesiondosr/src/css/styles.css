@@ -1,0 +1,49 @@
+.Hero-Batman {
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.Hero-Mujer-Maravilla {
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(226, 11, 11);
+    color: rgb(0, 0, 0);
+}
+
+.Hero-Superman {
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(8, 113, 173);
+    color: rgb(24, 23, 23);
+}
+
+.AntiHero-Venom {
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(8, 113, 173);
+    color: rgb(24, 23, 23);
+}
+
+.AntiHero-Deadpool {
+    display:flex;
+    width: 30%;
+    height: 60rem;
+    margin: 4rem;
+    flex-direction: column;
+    background-color: rgb(226, 11, 11);
+    color: rgb(0, 0, 0);
+}

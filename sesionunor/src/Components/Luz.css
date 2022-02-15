@@ -1,0 +1,6 @@
+.luz {
+  width: -WEBKIT-FILL-AVAILABLE;
+  height: 50px;
+  background-color: orange;
+  margin: 10px;
+}
